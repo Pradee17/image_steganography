@@ -9,7 +9,7 @@ password=input("Enter password:")
 d={}
 c={}
 
-for i in range(255555):
+for i in range(255):
     d[chr(i)]=i
     c[i]=chr(i)
 
